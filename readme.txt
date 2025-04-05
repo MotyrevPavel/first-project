@@ -1,1 +1,0 @@
-It simple text for example
